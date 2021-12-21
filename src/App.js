@@ -3,7 +3,7 @@
 function App() {
   return (
     <div >
-      App
+      I am a test
     </div>
   );
 }
