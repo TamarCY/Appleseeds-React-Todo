@@ -1,9 +1,10 @@
-
+import React from "react";
+import Home from "./Home";
 
 function App() {
   return (
     <div >
-      I am a test
+    <Home/>
     </div>
   );
 }
